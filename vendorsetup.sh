@@ -1,0 +1,3 @@
+add_lunch_combo omni_nx523j-eng
+add_lunch_combo omni_nx523j-userdebug
+
